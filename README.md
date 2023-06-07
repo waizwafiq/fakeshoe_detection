@@ -1,8 +1,10 @@
 # **Counterfeit Shoes Detection**
 
 How to run it?
-1. Create virtual environment (optional, but recommended)
-2. Install dependencies
+1. Download this repository.
+2. Create virtual environment in the same directory (optional, but recommended)
+3. Install dependencies in the directory
 ```pip install -r requirements.txt```
-3. Run streamlit app.
+4. Run streamlit app to showcase the UI
 ```streamlit run run.py```
+5. AI experimentations are in `brand_detect.ipynb` and `fake_detect.ipynb`
